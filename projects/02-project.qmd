@@ -1,0 +1,9 @@
+---
+title: <b>Predicting NBA Game Outcomes from Historical Season Data (2023-2024)</b>
+subtitle: Statistical Models and Data Mining Capstone
+image: images/nba.jpg
+---
+
+<iframe src="reports/Stats_101C_final.pdf" width="100%" height="600px">
+
+</iframe>

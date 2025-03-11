@@ -2,4 +2,12 @@
 toc: false
 ---
 
+# Ongoing Research
 
+I am a current undergraduate researcher for the [Pinter-Wollman Lab](https://pinterwollmanlab.eeb.ucla.edu/) at UCLA entering the second year of my independent project. I am currently investigating the drivers of roost choice in GPS-tagged griffon vultures.
+
+# Completed Works
+
+**Cassidy Sadowski**, JP Montagne (2024). Interpreting Accelerometer Data Without Ex-Situ Baseline Data in Ringtails (*Bassariscus astutus*). [[PDF]](/Poster_Sadowski.pdf "PDF")
+
+J.P. Montagne, Scott Tremor, Justin Chung, **Cassidy Sadowski**, Debra M. Shier (2025). Effects of Roads on Space Use, Habitat Selection, Population Dynamics and Health of the Ringtail in San Diego County. [[PDF]](/ringtail-poster2025.pdf "PDF")

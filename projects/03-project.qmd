@@ -1,0 +1,8 @@
+---
+title: <b>The Impact of Positive and Negative Memories on Heart Rate</b>
+subtitle: Design and Analysis of Experiment Capstone
+image: images/mindheart.jpg
+---
+
+<iframe src="reports/Stats101B_final.pdf" width="100%" height="600px"></iframe>
+

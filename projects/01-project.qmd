@@ -1,7 +1,9 @@
 ---
-title: Project 1
-subtitle: description
+title: <b>Investigating the Drivers of Deforestation</b>
+subtitle: Data Analysis and Regression Capstone
 image: images/trees.jpg
 ---
 
-Project goes here
+<iframe src="reports/101A_Capstone.pdf" width="100%" height="600px">
+
+</iframe>
