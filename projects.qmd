@@ -1,0 +1,21 @@
+---
+toc: false
+listing:
+  - id: project-listing
+    contents:
+      - "/projects/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: false
+    type: grid
+    fields: 
+      - title
+      - subtitle
+      - image
+    categories: false
+---
+
+The following works are projects that I've completed throughout my time at UCLA.
+
+:::project-listing
+:::

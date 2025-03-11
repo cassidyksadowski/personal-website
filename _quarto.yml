@@ -2,11 +2,18 @@ project:
   type: website
 
 website:
+  title: "Cassidy Sadowski"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: research.qmd
+        text: Research
+
+  page-footer:
+    right: "&copy; 2025, Cassidy Sadowski"
 
 format:
   html:
@@ -16,5 +23,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
-
+execute: 
+  freeze: auto

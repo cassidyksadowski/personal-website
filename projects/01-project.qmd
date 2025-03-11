@@ -1,0 +1,7 @@
+---
+title: Project 1
+subtitle: description
+image: images/trees.jpg
+---
+
+Project goes here

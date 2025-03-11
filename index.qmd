@@ -1,11 +1,49 @@
 ---
-title: "personal website"
+title: "Cassidy Sadowski"
+about:
+  template: trestles
+  image: sadowski_headshot.jpeg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cassidy-sadowski/
+    - icon: github
+      text: Github
+      href: https://github.com/cassidyksadowski
+    - icon: envelope
+      text: Email
+      url: "mailto: cassidysadowski@g.ucla.edu"
+    - icon: file-earmark-text
+      text: Resume
+      href: resume.pdf
+toc: false
 ---
 
-This is a Quarto website.
+Cassidy Sadowski is a third-year undergraduate at UCLA pursing a double major in Statistics & Data Science and Ecology, Behavior, & Evolution. Outside of her studies, she enjoys getting outside, reading, and spending time with her family.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-100^-2
-```
+**University of California, Los Angeles** | Los Angeles, CA\
+Bachelor of Science Candidate | Sept 2022 - June 2026
+
+**Phillips Academy Andover** | Andover, MA\
+High School Diploma | Sept 2018 - June 2022
+
+## Experience
+
+**San Diego Zoo Wildlife Alliance** | Recovery Ecology Summer Fellow | June 2024 - Sept 2024
+
+**Saint Louis Zoo** | Behavior and Animal Welfare Intern | June 2023 - August 2023
+
+**Best Friends Animal Society** | Policy, Data, & Research Intern | Jan 2023 - June 2023
+
+**Nashville Zoo at Grassmere** | Behavioral Husbandry Intern | June 2022 - Sept 2022
+
+**John Ball Zoo** | Seasonal Retail Sales Associate | August 2020 - October 2020
+
+
+
+
+
+
+
